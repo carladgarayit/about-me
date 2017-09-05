@@ -2,7 +2,6 @@
 <head>
 <title>Header of an HTML file</title>
 </head>
-<body><div> <p> Hello World </p></div>
+<body><div><p>Hello World </p></div>
 </body>
-
 </html>
